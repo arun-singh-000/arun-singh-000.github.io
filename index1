@@ -1,0 +1,1 @@
+alert(Document.cookie=n+document.cookie);alert(Window.Origin=n+window.origin);alert(Document.Location=n+document.location);
